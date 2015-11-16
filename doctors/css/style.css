@@ -1,0 +1,54 @@
+* {margin:0;padding:0}
+
+.right{float:right}
+.header_info{ text-align:cinter; padding-top:20px;padding-bottom:0px}
+.header_nav{border-top: .5px solid #ccc;text-align:cinter; padding-top:20px ;padding-bottom:20px}
+.header_nav ul li a{}
+.second_nav{color:#fff; padding-top:10px; padding-bottom:10px}
+.second_nav h3{padding:0px; margin:0px;}
+.second_nav p{font-size:11px}
+.second_nav_sarch{}
+.second_nav_nav ul {padding-left:15px} 
+.second_nav_nav ul li {padding-right:35px;padding-top:20px}
+.contain_tab{padding-top:70px}
+.contain_img{padding-top:30px}
+.contain_text{padding-top:100px}
+.contain_text h4{padding-top:10px}
+.contain_text p{padding-top:10px}
+.contain_text ul li{padding-top:5px}
+.hostpress{}
+.hostpress_header{padding-top:55px;padding-bottom:35px;}
+.hostpress_header h2{padding:5px; margin:0px}
+.hostpress_header p{padding:0px; margin:0px}
+.hostpress_content{padding-top:50px;}
+.hostpress_content_bottom{padding-top:70px;padding-bottom:70px}
+.pricing{padding-top:35px;color:#fff}
+.pricing_text{padding-top:40px; padding-bottom:30px;}
+.pricing_text p{padding:0px;margin:0px}
+.pricing_text h2{padding:0px;margin:0px}
+.pricing_content{padding-bottom:20px}
+.pricing_content_one{border: 2px solid #fff;}
+.pricing_content_two{}
+.pricing_content_three{}
+.last_content_nav{padding-top:40px;padding-bottom:30px}
+.last_content_nav ul li{border-right: 1px solid #ccc;}
+.last_content{padding-top:30px;padding-bottom:40px}
+.footer{}
+.footer_head{background-color:#267AE9; color:#fff;padding-top:15px; padding-bottom:15px}
+.footer_head_one{border-right: 1px solid #ccc;padding-top:15px; padding-bottom:15px}
+.footer_mid img{padding-bottom:20px;}
+.footer_mid{padding-top:40px; padding-bottom:35px; color:#6E738C}
+.footer_mid_one{}
+.footer_mid_one h5{padding-bottom:10px;}
+.footer_last{border-top: 0.50px solid #6E738C; padding-top:0px; padding-bottom:45px}
+.footer_last_one img{padding-top:35px;padding-bottom:25px;}
+.footer_mid_one_img img{padding-bottom:5px}
+.footer_mid_one_img{ padding-top:15px}
+.footer_last_two ul {
+  padding-left: 40px;
+}
+.footer_last_two ul li{padding-top:35px;padding-bottom:25px;padding-right:20px;}
+.footer_last_three{ padding-top:35px;padding-bottom:25px;}
+.footer_last_three p{color:#6E738C; }
+.footer_last_four{padding-top:35px;padding-bottom:25px;}
+.copy_right{color:#6E738C;padding-top:15px; padding-bottom:10px}

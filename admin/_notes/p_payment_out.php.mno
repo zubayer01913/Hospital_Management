@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rspatients" value="name:p_id;datatype:int,name:p_pic;datatype:string,name:p_username;datatype:string,name:p_name;datatype:string,name:p_password;datatype:string,name:age;datatype:int,name:sex;datatype:string,name:blood_group;datatype:string,name:type_of_disease;datatype:string,name:treating_doctor;datatype:string,name:room_no;datatype:int,name:contact;datatype:string,name:p_status;datatype:string,name:total_bill;datatype:string,name:address;datatype:blob,name:email;datatype:string,name:add_date;datatype:string,name:p_room_rent;datatype:int,name:p_medecine_cost;datatype:int,name:p_test_cost;datatype:int,name:p_other_cost;datatype:int,name:p_total;datatype:int,name:release_date;datatype:date" />
+</info>

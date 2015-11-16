@@ -1,0 +1,10 @@
+/* Custom styling for the Bootstrap website. 
+These styles do not ship with Bootstrap. 
+*/
+footer {
+	text-align: center;
+	color: #999;
+	border-top: 1px solid #ccc;
+	padding: 2em 0em;
+	margin: 3em 0;
+}
